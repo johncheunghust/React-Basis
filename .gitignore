@@ -1,0 +1,16 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# kicked out
+/.idea
+/react_blank
+/react_redux
+/react_router
+/react_ui
+/react_test/.idea
+/react_test/prepare
+/react_redux_test/.idea
+/react_router_test/.idea
+
+#dependencies
+/react_redux_test/node_modules
+/react_router_test/node_modules
